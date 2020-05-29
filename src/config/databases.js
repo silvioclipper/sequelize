@@ -1,8 +1,8 @@
 module.exports = {
-    dialect: 'mysql',
+    dialect: '',
     host: '',
     port: '',
-    username: 'clipper',
+    username: '',
     password: '',
     database: '',
     define:{

@@ -1,5 +1,5 @@
 module.exports = {
-    dialect: '',
+    dialect: 'mysql',
     host: '',
     port: '',
     username: '',

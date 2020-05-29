@@ -1,5 +1,5 @@
 module.exports = {
-    dialect: '',
+    dialect: 'x',
     host: '',
     port: '',
     username: '',

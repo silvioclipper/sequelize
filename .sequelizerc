@@ -1,6 +1,6 @@
 const path = require('path');
 
 module.exposts = {
-    config: path.resolve(__dirname, 'src', 'config', 'config.js'),
+    config: path.resolve(__dirname, 'src', 'config', 'databases.js'),
     'migrations-path': path.resolve(__dirname, 'src','database','migrations')
 };
